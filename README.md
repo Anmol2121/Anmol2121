@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anmol Chaudhary
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Data analyst, Machine Learning,Ai
+- 🌱 I’m currently working on Machine Learning,Ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
