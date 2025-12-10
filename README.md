@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Anmol Chaudhary
-- 👀 I’m interested in programming
-- 🌱 I’m currently working on Machine Learning,Ai
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I m an AI Engineer passionate about building models from scratch—CNNs, RNNs, LSTMs, and Transformers and applying them to real world automation and security solutions
 
 <!---
 Anmol2121/Anmol2121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
